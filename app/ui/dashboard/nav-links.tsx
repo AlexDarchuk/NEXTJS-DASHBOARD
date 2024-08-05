@@ -24,7 +24,6 @@ const links = [
 
 const NavLinks: FC = () => {
   const pathname = usePathname();
-  console.log(pathname);
 
   return (
     <>
